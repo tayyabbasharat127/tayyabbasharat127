@@ -55,30 +55,28 @@ Full-stack authentication app with OTP-based recovery, QR code login, and two-fa
 Dynamic and responsive blog platform supporting category filtering, CRUD features, and real-time updates.  
 **Tech:** React • TailwindCSS • Firebase 
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabbasharat127&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabbasharat127&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabbasharat127&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:tbasharat804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/tayyabbasharat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://tayyabbasharat.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:tbasharat804@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tayyabbasharat">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tayyabbasharat.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tayyabbasharat127">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
 </p>
-
 ---
 
 ⭐ **"Think logically, design beautifully, and code passionately."**
