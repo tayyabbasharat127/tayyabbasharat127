@@ -24,7 +24,7 @@ I’m passionate about **clean code, interactive UI/UX**, and creating **digital
 ### 🛠️ Tech Stack
 
 #### 🚀 Core Skills  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,docker,tailwind,git,github,vscode,postman)](https://skillicons.dev)
 
 #### 🧩 Additional Tools  
 [![My Skills](https://skillicons.dev/icons?i=mysql,figma,vercel,netlify,npm,bash)](https://skillicons.dev)
@@ -33,14 +33,27 @@ I’m passionate about **clean code, interactive UI/UX**, and creating **digital
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🌐 [Portfolio Website](https://tayyabbasharat.netlify.app/) | My personal portfolio showcasing my projects and skills | Next.js, TailwindCSS |
-| 🧾 CRUD App | A complete CRUD app with RESTful APIs and MongoDB backend | React, Node.js, Express, MongoDB |
-| 🤖 AI Tools Dashboard | Integrated AI APIs to create a smart productivity dashboard | Next.js, OpenAI API |
-| ⚙️ API Integration Project | Web app integrating 3rd-party APIs for real-time data | React, Axios, Express |
+#### 🌐 [Portfolio Website](https://tayyabbasharat.netlify.app/)
+A modern portfolio showcasing my professional work, design sense, and coding expertise.  
+**Tech:** Next.js • TailwindCSS  
 
 ---
+
+#### ✈️ Wanderlust Adventures – Travel Booking Platform
+A full-stack travel booking platform with personalized recommendations, secure Stripe payments, and advanced filtering.  
+**Tech:** React • TailwindCSS • Node.js • Express • MongoDB • Stripe  
+
+---
+
+#### 🔐 Authify – Secure Authentication System
+Full-stack authentication app with OTP-based recovery, QR code login, and two-factor authentication.  
+**Tech:** Node.js • Express • MongoDB • JWT • React  
+
+---
+
+#### 📰 BlogVerse – Full Stack Blogging Platform
+Dynamic and responsive blog platform supporting category filtering, CRUD features, and real-time updates.  
+**Tech:** React • TailwindCSS • Firebase 
 
 ### 📊 GitHub Analytics
 
@@ -61,7 +74,7 @@ I’m passionate about **clean code, interactive UI/UX**, and creating **digital
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:tayyabbasharat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:tbasharat804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/tayyabbasharat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://tayyabbasharat.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
