@@ -76,6 +76,10 @@ Dynamic and responsive blog platform supporting category filtering, CRUD feature
   <a href="https://github.com/tayyabbasharat127">
     <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;
+   <a href="https://github.com/tayyabbasharat127">
+    <img src="https://skillicons.dev/icons?i=upwork" width="48" alt="GitHub"/>
+  </a>
 </p>
 ---
 
