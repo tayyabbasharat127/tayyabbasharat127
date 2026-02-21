@@ -15,7 +15,7 @@ I’m passionate about **clean code, interactive UI/UX**, and creating **digital
 - 🌱 Exploring **Next.js 14**, **TypeScript**, and **AI-powered web tools**  
 - 💡 Interested in automation, performance optimization, and web scalability  
 - 🌍 Portfolio: [tayyabbasharat.netlify.app](https://tayyabbasharat.netlify.app)  
-- 📫 Reach me at: **tayyabbasharat@gmail.com**
+- 📫 Reach me at: **tbasharat804@gmail.com**
 
 > “I don’t just build apps — I craft seamless digital experiences.”
 
